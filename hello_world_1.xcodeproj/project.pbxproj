@@ -13,6 +13,7 @@
 		D85D09E0249821CA00397814 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D85D09DF249821CA00397814 /* Assets.xcassets */; };
 		D85D09E3249821CA00397814 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D85D09E1249821CA00397814 /* LaunchScreen.storyboard */; };
 		D85D09EE249821CA00397814 /* hello_world_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D85D09ED249821CA00397814 /* hello_world_1UITests.swift */; };
+		D8F6501224A6463F00EDC1A1 /* Readme in Resources */ = {isa = PBXBuildFile; fileRef = D8F6501124A6463F00EDC1A1 /* Readme */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D85D09E9249821CA00397814 /* hello_world_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hello_world_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D85D09ED249821CA00397814 /* hello_world_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hello_world_1UITests.swift; sourceTree = "<group>"; };
 		D85D09EF249821CA00397814 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8F6501124A6463F00EDC1A1 /* Readme */ = {isa = PBXFileReference; lastKnownFileType = text; path = Readme; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 			children = (
 				D85D09ED249821CA00397814 /* hello_world_1UITests.swift */,
 				D85D09EF249821CA00397814 /* Info.plist */,
+				D8F6501124A6463F00EDC1A1 /* Readme */,
 			);
 			path = hello_world_1UITests;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8F6501224A6463F00EDC1A1 /* Readme in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
